@@ -9,7 +9,7 @@
  * O mesmo link também está no href de cada botão no natal.html (funciona sem JS).
  */
 const CONFIG = {
-  checkoutUrl: 'https://ggcheckout.app/checkout/v2/5yBv4Mh0vLTgjlP3PQsBU',
+  checkoutUrl: 'https://ggcheckout.app/checkout/v2/5yBv4Mh0vLjTgilP3PQsBU',
 };
 
 (function () {
