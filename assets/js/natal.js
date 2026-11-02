@@ -6,10 +6,10 @@
  * CONFIGURAÇÃO
  * checkoutUrl: cole aqui o link do checkout. Todos os botões [data-checkout]
  * passam a apontar para ele (UTMs e fbclid da página são repassados).
- * Enquanto estiver vazio, os botões levam até a oferta.
+ * O mesmo link também está no href de cada botão no natal.html (funciona sem JS).
  */
 const CONFIG = {
-  checkoutUrl: '',   // [CONFIRMAR] link do checkout
+  checkoutUrl: 'https://ggcheckout.app/checkout/v2/5yBv4Mh0vLTgjlP3PQsBU',
 };
 
 (function () {
