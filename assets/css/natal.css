@@ -411,3 +411,4 @@ html.anim [data-reveal-group].is-in > * { opacity: 1; translate: none; }
 }
 .reward-img { position: relative; }
 @media (min-width: 980px) { .facts { margin-left: 0; } }
+.footer-inner { text-align: center; }
